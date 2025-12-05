@@ -1,0 +1,48 @@
+# DalamudPlugins-TW
+
+台服 FFXIV 專用的 Dalamud 插件倉庫，提供 API12 版本的插件。
+
+## 使用方式
+
+1. 開啟 Dalamud 設定
+2. 進入「實驗性功能」
+3. 在「自訂插件儲存庫」加入以下 URL：
+
+```
+https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json
+```
+
+4. 儲存後即可在插件安裝器中看到這些插件
+
+## 可用插件
+
+| 插件 | 版本 | 說明 |
+|------|------|------|
+| **Penumbra** | 9.0.0.1 | Mod 載入器與管理工具 |
+| **Simple Tweaks** | 1.10.10.0 | 各種生活品質改進功能 |
+| **Brio** | 0.5.1.2 | GPose 增強工具，用於拍照與動作控制 |
+| **Glamourer** | 1.4.0.1 | 外觀修改與儲存工具（需要 Penumbra）|
+
+## 為什麼需要這個倉庫？
+
+台服使用的 Dalamud 版本為 API12，而官方插件倉庫已更新至 API13。這導致許多插件無法在台服上使用。
+
+本倉庫提供這些插件的 API12 相容版本，讓台服玩家也能使用這些實用的插件。
+
+## 相關連結
+
+- [台服 Dalamud (yanmucorp)](https://github.com/yanmucorp/Dalamud)
+- [Penumbra 官方](https://github.com/xivdev/Penumbra)
+- [Simple Tweaks 官方](https://github.com/Caraxi/SimpleTweaksPlugin)
+- [Brio 官方](https://github.com/Etheirys/Brio)
+- [Glamourer 官方](https://github.com/Ottermandias/Glamourer)
+
+## 注意事項
+
+- 這些插件是從官方源碼編譯的 API12 版本
+- 版本可能落後於官方最新版本
+- 如有問題請在 Issues 中回報
+
+## 授權
+
+各插件依照其原始授權條款發布。本倉庫僅提供編譯後的二進位檔案供台服玩家使用。

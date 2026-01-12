@@ -91,8 +91,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/AutoRetainer.zip",
-    "DownloadLinkUpdate": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/AutoRetainer.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/latest.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
   {
@@ -112,8 +112,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/Saucy.zip",
-    "DownloadLinkUpdate": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/Saucy.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
     "IconUrl": "https://love.puni.sh/resources/saucy.png"
   },
   {
@@ -162,32 +162,6 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png"
   },
   {
-    "Author": "erdelf, Herculezz",
-    "Name": "AutoDuty",
-    "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.228",
-    "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "Tags": [
-      "potd",
-      "hoh",
-      "eo",
-      "esp",
-      "radar",
-      "sonar",
-      "deep",
-      "dungeon"
-    ],
-    "ApplicableVersion": "any",
-    "Punchline": "Dungeons while you sleep, eat, or work. (Swimsuit Shtola made easy.)",
-    "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-    "DalamudApiLevel": 12,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/AutoDuty.zip",
-    "DownloadLinkUpdate": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/AutoDuty.zip",
-    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
-  },
-  {
     "Author": "akira0245, Ori, Kalle, Zune",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
@@ -205,8 +179,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/MidiBard2.zip",
-    "DownloadLinkUpdate": "https://github.com/magejiaaa/DalamudPlugins-TW/releases/download/API12/MidiBard2.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/latest.zip",
     "IconUrl": "https://i.imgur.com/OSxqew4.png"
   },
   {

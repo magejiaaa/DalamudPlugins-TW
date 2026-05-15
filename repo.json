@@ -107,8 +107,8 @@
       "automation"
     ],
     "ApplicableVersion": "any",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
+    "Punchline": "當金碟幣取得太費力時",
+    "Description": "自動進行部分金碟遊樂場小遊戲。",
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,

@@ -114,7 +114,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
-    "IconUrl": "https://love.puni.sh/resources/saucy.png"
+    "IconUrl": "https://raw.githubusercontent.com/magejiaaa/Saucy/master/Saucy/Icon.png"
   },
   {
     "Author": "UnknownX",

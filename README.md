@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 | [**MidiBard 2**](https://midibard.org) | 3.1.0.0 | 演奏 |
 | [**GatherBuddy Reborn**](https://github.com/AtmoOmen/GatherBuddyReborn) | 7.2.5.1 | 採集小精靈 |
 | [**Artisan**](https://github.com/MeowZWR/Artisan) | 4.0.3.46 | 生產小精靈 |
-| [**Burning Down the House**](https://github.com/LeonBlade/BDTHPlugin) | 1.6.9 | 裝修公司 |
+| [**Burning Down the House**](https://github.com/LeonBlade/BDTHPlugin) | 1.6.9 | 裝修公司 | kalispp |
 | [**Raphael.Dalamud**](https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud) | 0.0.3.0 | DR有一個功能需要用到 |
 | [**Something Need Doing**](https://github.com/Jaksuhn/SomethingNeedDoing) | 0.0.0.0 | 巨集擴展 |
 | [**TextAdvance**](https://github.com/NightmareXIV/TextAdvance) | 3.2.4.5 | 跳過劇情對話 |

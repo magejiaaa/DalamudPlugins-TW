@@ -21,15 +21,15 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 ### 🔴用安自負🔴🔴用安自負🔴🔴用安自負🔴
 
 
-| 插件 | 版本 | 說明 |
-|------|------|------|
+| 插件 | 版本 | 說明 | 翻譯 |
+|------|------|------|------|
 | [**Bossmod Reborn**](https://github.com/FFXIV-CombatReborn/BossmodReborn) | 7.2.5.109 | 顯示技能傷害範圍&其他 |
 | [**Rotation Solver Reborn**](https://github.com/FFXIV-CombatReborn/RotationSolverReborn) | 7.2.5.122 | 一鍵技能循環 |
 | [**Splatoon**](https://github.com/PunishXIV/Splatoon) | 3.8.1.5 | 場景繪製點線面 |
 | [**Wrath Combo**](https://github.com/MeowZWR/WrathCombo) | 1.0.1.18 | 一鍵技能循環收錄的是漢化版 |
 | [**AntiAfkKick**](https://github.com/NightmareXIV/AntiAfkKick) | 2.1.0.7 | 防止閒置太久被踢下線 |
-| [**AutoRetainer**](https://github.com/PunishXIV/AutoRetainer) | 4.5.0.4 | 雇員相關 |
-| [**Saucy**](https://github.com/PunishXIV/Saucy) | 1.4.2.0 | 金蝶相關 |
+| [**AutoRetainer**](https://github.com/PunishXIV/AutoRetainer) | 4.5.0.4 | 雇員相關 | 咪啪 |
+| [**Saucy**](https://github.com/PunishXIV/Saucy) | 1.4.2.0 | 金蝶相關 | MJ |
 | [**NoClippy**](https://github.com/UnknownX7/NoClippy) | 0.5.0.18 | 不知道是二插還三插 |
 | [**NecroLens**](https://github.com/Jukkales/NecroLens) | 1.0.8.11 | 深宮小精靈 |
 | [**MidiBard 2**](https://midibard.org) | 3.1.0.0 | 演奏 |

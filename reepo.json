@@ -1,5 +1,6 @@
 [
   {
+    "disabled": true,
     "Author": "Team Wrath, MeowZWR",
     "Name": "Wrath Combo",
     "InternalName": "WrathCombo",
@@ -37,6 +38,7 @@
     "IconUrl": "https://raw.githubusercontent.com/magejiaaa/Saucy/master/Saucy/Icon.png"
   },
   {
+    "disabled": true,
     "Author": "Taurenkey, NightmareXIV, kawaii",
     "Name": "Artisan",
     "InternalName": "Artisan",
@@ -56,6 +58,7 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
   },
   {
+    "disabled": true,
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
     "InternalName": "BDTHPlugin",

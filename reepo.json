@@ -1,0 +1,104 @@
+[
+  {
+    "Author": "Team Wrath, MeowZWR",
+    "Name": "Wrath Combo",
+    "InternalName": "WrathCombo",
+    "AssemblyVersion": "1.0.1.18",
+    "RepoUrl": "https://github.com/MeowZWR/WrathCombo",
+    "ApplicableVersion": "any",
+    "Punchline": "將連段（Combo）與彼此互斥的技能整合到同一個按鍵上——而且不只如此。",
+    "Description": "讓一個動作變成多個動作！概念類似 PvP 技能的運作方式，我們以單一技能為基礎，組合出完整的連段。有時只是簡單的 1-2-3 連擊，有時則是一整套職業循環。不論哪種情況，你都能找到符合自己操作與循環需求的配置。",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.18-cn/WrathCombo.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.18-cn/WrathCombo.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
+  },
+  {
+    "Author": "Taurenkey (Puni.sh)",
+    "Name": "Saucy",
+    "InternalName": "Saucy",
+    "AssemblyVersion": "1.4.2.0",
+    "RepoUrl": "https://github.com/PunishXIV/Saucy",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "當金碟幣取得太費力時",
+    "Description": "自動進行部分金碟遊樂場小遊戲。",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/magejiaaa/Saucy/master/Saucy/Icon.png"
+  },
+  {
+    "Author": "Taurenkey, NightmareXIV, kawaii",
+    "Name": "Artisan",
+    "InternalName": "Artisan",
+    "AssemblyVersion": "4.0.3.46",
+    "RepoUrl": "https://github.com/MeowZWR/Artisan",
+    "Tags": [
+      "crafting"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/MeowZWR/Artisan/releases/download/4.0.3.46-cn/Artisan.zip",
+    "DownloadLinkUpdate": "https://github.com/MeowZWR/Artisan/releases/download/4.0.3.46-cn/Artisan.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+  },
+  {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.6.9",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "房屋裝修變簡單！",
+    "Description": "透過座標移動房屋物品，並允許您將其放置在任何地方。",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/BDTHPlugin/latest.zip",
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png"
+  },
+  {
+    "Author": "Raphael",
+    "Name": "Raphael.Dalamud",
+    "InternalName": "Raphael.Dalamud",
+    "AssemblyVersion": "0.0.3.0",
+    "RepoUrl": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud",
+    "Tags": [
+      "Raphael",
+      "Craft",
+      "生產"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "Dalamud Wrapper for Craft Solver Raphael / 生產求解器 Raphael 的 Dalamud 包裝",
+    "Description": "Dalamud Wrapper for Craft Solver Raphael / 生產求解器 Raphael 的 Dalamud 包裝\nMainly used to provide IPC for other Dalamud plugins / 主要用于提供 IPC 給其他 Dalamud 插件調用",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
+    "IconUrl": ""
+  }
+]
